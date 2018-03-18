@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Challenge01_Mission01</string>
+
+    <string name="first_text">Send and receive SMS from Messenger</string>
+
+    <string name="second_text">
+        Manage all of your conversations in one place and use stickers and chat heads.
+        SMS conversations are displayed separately in Messenger and aer only available via a mobile phone.
+        Standard text messenger charges will be charged.
+    </string>
+    <string name="button">button</string>
+    <string name="setting">setting</string>
+
+</resources>
