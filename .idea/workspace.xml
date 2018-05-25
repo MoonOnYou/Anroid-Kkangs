@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="2c4f5916-fa59-42d1-8eee-e0bfae19ac1d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/Diaog1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/Diaog2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/Diaog3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/dialog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/resources.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/tabHost1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/tabHost2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/tabHost3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/vibratorAndRingtone1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/vibratorAndRingtone2.png" beforeDir="false" />
     </list>
     <list id="e7ab8ae0-fc83-4399-8942-fdf2c25ee3e3" name="Revert &quot;customAdapter만들기 (리눅스로 바꾼뒤 첫커밋 사점)&quot;" comment="Revert &quot;customAdapter만들기 (리눅스로 바꾼뒤 첫커밋 사점)&quot;&#10;&#10;This reverts commit a29fd39" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="184">
-                <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <first_editor relative-caret-position="359">
+                <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -38,11 +48,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="829" />
-    <option name="y" value="-4" />
-    <option name="width" value="771" />
-    <option name="height" value="904" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="713" />
+    <option name="y" value="24" />
+    <option name="width" value="887" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -151,7 +161,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="-4" width="1541" height="904" extended-state="6" />
+    <frame x="713" y="24" width="887" height="876" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -163,7 +173,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" x="61" y="317" width="1539" height="262" id="Version Control" order="7" weight="0.2562814" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18718593" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19401042" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.49805447" />
@@ -221,8 +231,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="184">
-            <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <first_editor relative-caret-position="359">
+            <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
           </first_editor>
           <second_editor />
         </state>
