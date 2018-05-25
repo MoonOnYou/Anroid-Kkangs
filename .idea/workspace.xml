@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c4f5916-fa59-42d1-8eee-e0bfae19ac1d" name="Default" comment="" />
+    <list default="true" id="2c4f5916-fa59-42d1-8eee-e0bfae19ac1d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <list id="e7ab8ae0-fc83-4399-8942-fdf2c25ee3e3" name="Revert &quot;customAdapter만들기 (리눅스로 바꾼뒤 첫커밋 사점)&quot;" comment="Revert &quot;customAdapter만들기 (리눅스로 바꾼뒤 첫커밋 사점)&quot;&#10;&#10;This reverts commit a29fd39" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="230">
-                <caret line="10" column="108" lean-forward="true" selection-start-line="10" selection-start-column="108" selection-end-line="10" selection-end-column="108" />
+              <first_editor relative-caret-position="184">
+                <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -37,9 +39,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="61" />
+    <option name="x" value="829" />
     <option name="y" value="-4" />
-    <option name="width" value="1539" />
+    <option name="width" value="771" />
     <option name="height" value="904" />
   </component>
   <component name="ProjectView">
@@ -149,7 +151,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="58" y="-11" width="1543" height="912" extended-state="6" />
+    <frame x="59" y="-4" width="1541" height="904" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -164,7 +166,7 @@
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18718593" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24918884" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.49805447" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -219,8 +221,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="230">
-            <caret line="10" column="108" lean-forward="true" selection-start-line="10" selection-start-column="108" selection-end-line="10" selection-end-column="108" />
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
