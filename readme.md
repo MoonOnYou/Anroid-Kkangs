@@ -6,7 +6,7 @@
 <img src="./screenshot/coustomAdater3.png" width="30%" height="30%">
 
 ### 리소스 폴더명 조건 활용하기 (228p)
-<img src="./screenshot/resource.png" width="30%" height="30%">
+<img src="./screenshot/resources.png" width="30%" height="30%">
 
 ### visibiliy속성 사용하기 (91p)
 <img src="./screenshot/visibiliy2.png" width="30%" height="30%">
