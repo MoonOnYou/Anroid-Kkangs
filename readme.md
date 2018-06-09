@@ -4,7 +4,8 @@
 <img src="./screenshot/resource.png" width="30%" height="30%">
 
 ### visibiliy속성 사용하기 (91p)
-<img src="./screenshot/Mission2.png" width="30%" height="30%">
+<img src="./screenshot/visibiliy2.png" width="30%" height="30%">
+<img src="./screenshot/visibiliy2.png" width="30%" height="30%">
 
 ### vibrator와 ringtone사용하기 (164p)
 <img src="./screenshot/vibratorAndRingtone1.png" width="30%" height="30%">
