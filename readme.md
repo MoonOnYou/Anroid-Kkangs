@@ -1,5 +1,7 @@
 # '깜쌤의 안드로이드 프로그래밍' 책 실습
 
+* 시연영상 - https://youtu.be/2xS569DnvFc
+
 ## 커스텀뷰 만들기 
 <img src="./screenshot/coustomAdater1.png" width="30%" height="30%">
 <img src="./screenshot/coustomAdater2.png" width="30%" height="30%">
